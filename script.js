@@ -10,7 +10,7 @@ document.getElementById("bt").onclick=function(){
     }
     else if ((Math.pow(b, 2)-(4*a*c))==0) {
        
-        console.log((-b+Math.sqrt((Math.pow(b,2))))/2*a)
+        console.log((-b)/(2*a))
 
     }
     else{
